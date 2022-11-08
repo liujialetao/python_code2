@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ce7c195c-dd15-4ef6-99ef-9d83ca2b745c" name="47.94.9.33">
+        <fileTransfer rootFolder="/var/pbx/lhdx" accessType="SFTP" host="47.94.9.33" port="22" sshConfigId="e5a500ec-7405-4362-98e1-f9311e1c245e" sshConfig="root@47.94.9.33:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
